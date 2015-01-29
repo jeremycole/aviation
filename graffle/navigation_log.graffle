@@ -16711,7 +16711,7 @@
 	<key>MasterSheets</key>
 	<array/>
 	<key>ModificationDate</key>
-	<string>2015-01-29 22:01:12 +0000</string>
+	<string>2015-01-29 22:20:04 +0000</string>
 	<key>Modifier</key>
 	<string>Jeremy Cole</string>
 	<key>NotesVisible</key>
@@ -16774,7 +16774,7 @@
 	<key>RowSpacing</key>
 	<real>36</real>
 	<key>SheetTitle</key>
-	<string>Canvas 1</string>
+	<string>navigation_log</string>
 	<key>SmartAlignmentGuidesActive</key>
 	<string>YES</string>
 	<key>SmartDistanceGuidesActive</key>
@@ -16810,7 +16810,7 @@
 		<key>ZoomValues</key>
 		<array>
 			<array>
-				<string>Canvas 1</string>
+				<string>navigation_log</string>
 				<real>1</real>
 				<real>2</real>
 			</array>

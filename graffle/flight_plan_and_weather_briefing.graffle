@@ -6101,7 +6101,7 @@ Precipitation}</string>
 	<key>MasterSheets</key>
 	<array/>
 	<key>ModificationDate</key>
-	<string>2015-01-29 22:01:35 +0000</string>
+	<string>2015-01-29 22:21:16 +0000</string>
 	<key>Modifier</key>
 	<string>Jeremy Cole</string>
 	<key>NotesVisible</key>
@@ -6164,7 +6164,7 @@ Precipitation}</string>
 	<key>RowSpacing</key>
 	<real>36</real>
 	<key>SheetTitle</key>
-	<string>Canvas 1</string>
+	<string>flight_plan_and_weather_briefing</string>
 	<key>SmartAlignmentGuidesActive</key>
 	<string>YES</string>
 	<key>SmartDistanceGuidesActive</key>
@@ -6200,7 +6200,7 @@ Precipitation}</string>
 		<key>ZoomValues</key>
 		<array>
 			<array>
-				<string>Canvas 1</string>
+				<string>flight_plan_and_weather_briefing</string>
 				<real>1</real>
 				<real>1</real>
 			</array>
