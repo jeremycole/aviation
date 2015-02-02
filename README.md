@@ -16,9 +16,17 @@ The following forms were redeveloped with inspiration from existing and common s
 
 Collect the relevant information to file a flight plan and receive a weather briefing using 800 WX BRIEF.
 
+[Download the Flight Plan and Weather Briefing form as a PDF](https://github.com/jeremycole/aviation/blob/master/pdf/flight_plan_and_weather_briefing.pdf?raw=true)
+
 ## Navigation Log
 
 Plan time, distance, fuel consumption, and navigation points for cross-country trips.
+
+[Download the Navigation Log form as a PDF](https://github.com/jeremycole/aviation/blob/master/pdf/navigation_log.pdf?raw=true)
+
+# Airport Diagrams
+
+I have copied the FAA-produced airport diagrams for a few airports so that they print perfectly on a sheet of 8.5x11 paper folded in half, so that the airport diagram is on one side, and an overview map of the area (from Google Maps) is on the reverse.
 
 # License
 
