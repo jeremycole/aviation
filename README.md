@@ -24,6 +24,14 @@ Plan time, distance, fuel consumption, and navigation points for cross-country t
 
 [Download the Navigation Log form as a PDF](https://github.com/jeremycole/aviation/blob/master/pdf/navigation_log.pdf?raw=true)
 
+## VOR Check Record
+
+Record the results of aircraft VOR checks required by 14 CFR 91.171.
+
+[Download the VOR Check Record form as a PDF (2 forms per page)](https://github.com/jeremycole/aviation/blob/master/pdf/vor_check_half_page.pdf?raw=true)
+
+[Download the VOR Check Record form as a PDF (full page per form)](https://github.com/jeremycole/aviation/blob/master/pdf/vor_check_full_page.pdf?raw=true)
+
 # Airport Diagrams
 
 I have copied the FAA-produced airport diagrams for a few airports so that they print perfectly on a sheet of 8.5x11 paper folded in half, so that the airport diagram is on one side, and an overview map of the area (from Google Maps) is on the reverse.
