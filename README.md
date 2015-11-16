@@ -16,20 +16,30 @@ The following forms were redeveloped with inspiration from existing and common s
 
 Collect the relevant information to file a flight plan and receive a weather briefing using 800 WX BRIEF.
 
-* [Download the Flight Plan and Weather Briefing form as a PDF](https://github.com/jeremycole/aviation/blob/master/pdf/flight_plan_and_weather_briefing.pdf?raw=true)
+* [Download the Flight Plan and Weather Briefing form as a PDF](https://github.com/jeremycole/aviation/raw/master/pdf/flight_plan_and_weather_briefing.pdf)
 
 ## Navigation Log
 
 Plan time, distance, fuel consumption, and navigation points for cross-country trips.
 
-* [Download the Navigation Log form as a PDF](https://github.com/jeremycole/aviation/blob/master/pdf/navigation_log.pdf?raw=true)
+* [Download the Navigation Log form as a PDF](https://github.com/jeremycole/aviation/raw/master/pdf/navigation_log.pdf)
 
 ## VOR Check Record
 
 Record the results of aircraft VOR checks required by 14 CFR 91.171.
 
-* [Download the VOR Check Record form as a PDF (2 forms per page)](https://github.com/jeremycole/aviation/blob/master/pdf/vor_check_half_page.pdf?raw=true)
-* [Download the VOR Check Record form as a PDF (full page per form)](https://github.com/jeremycole/aviation/blob/master/pdf/vor_check_full_page.pdf?raw=true)
+* [Download the VOR Check Record form as a PDF (2 forms per page)](https://github.com/jeremycole/aviation/raw/master/pdf/vor_check_half_page.pdf)
+* [Download the VOR Check Record form as a PDF (full page per form)](https://github.com/jeremycole/aviation/raw/master/pdf/vor_check_full_page.pdf)
+
+# Checklists
+
+I have based these on the CheckMate cards (which I like but don't love) and the POH information and checklists (which are generally hard to read and not very compact).
+
+## Diamond DA40
+
+This is based on my plane a 2012 Diamond DA40 XLS with air conditioning and many options. It has been customized a bit for this.
+
+* [Download the Diamond DA40 CheckList as a PDF](https://github.com/jeremycole/aviation/raw/master/pdf/da40_checklist.pdf)
 
 # Airport Diagrams
 
