@@ -7,7 +7,7 @@
 	<key>ApplicationVersion</key>
 	<array>
 		<string>com.omnigroup.OmniGraffle6.MacAppStore</string>
-		<string>169.8</string>
+		<string>169.10</string>
 	</array>
 	<key>AutoAdjust</key>
 	<true/>
@@ -626,7 +626,7 @@ Land at 60-65 KIAS}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{247.5, 346.5}, {121.50000000000003, 63}}</string>
+			<string>{{247.5, 364.5}, {121.50000000000003, 54}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FontInfo</key>
@@ -634,7 +634,7 @@ Land at 60-65 KIAS}</string>
 				<key>Font</key>
 				<string>HelveticaNeue-Light</string>
 				<key>Size</key>
-				<real>11</real>
+				<real>18</real>
 			</dict>
 			<key>ID</key>
 			<integer>2203</integer>
@@ -664,7 +664,7 @@ Land at 60-65 KIAS}</string>
 \f0\b\fs22 \cf0 Turn over for\
 in-flight checklists\
 
-\f1 \uc0\u8594  \u8594  \u8594  \u8594  \u8594 }</string>
+\f1\fs36 \uc0\u8594  \u8594  \u8594 }</string>
 				<key>VerticalPad</key>
 				<real>3</real>
 			</dict>
@@ -718,33 +718,33 @@ Radio \'97 Call as req.\
 \
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
-\f0\i \cf0 Constant Airspeed Descent\
+\f0\i \cf0 Constant Airspeed\
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
 
-\f1\i0 \cf0 AS \'97\'a0Maintain ~130 KIAS\
-VS \'97 Maintain ~500 fpm\
+\f1\i0 \cf0 AS \'97\'a0Maintain \uc0\u8776 130 KIAS\
+VS \'97 Maintain \uc0\u8776 500 fpm\
 Propeller \'97 Set to 2200 RPM\
 Throttle \'97 Set to 15\'94 or as req.\
 \
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
-\f0\i \cf0 Low Airspeed, Steep Descent\
+\f0\i \cf0 Low Airspeed (Steep)\
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
 
-\f1\i0 \cf0 AS \'97\'a0Maintain ~80 KIAS\
-VS \'97\'a0Maintain ~500 fpm\
+\f1\i0 \cf0 AS \'97\'a0Maintain \uc0\u8776 80 KIAS\
+VS \'97\'a0Maintain \uc0\u8776 500 fpm\
 Propeller \'97 Set to 1800 RPM\
 Throttle \'97\'a0Set to 10\'94 or as req\
 \
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
-\f0\i \cf0 High Airspeed, Shallow Descent\
+\f0\i \cf0 High Airspeed (Shallow)\
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
 
 \f1\i0 \cf0 AS \'97 Maintain &lt;178 KIAS\
 VS \'97 Maintain as req.\
 Propeller \'97 Set to 2450 RPM\
-Throttle \'97\'a0Set to full\
+Throttle \'97\'a0Set to full or as req.\
 \
 }</string>
 				<key>VerticalPad</key>
@@ -805,7 +805,7 @@ Fuel Tank \'97\'a0Switch as req.}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{247.5, 409.5}, {121.50000000000003, 148.5}}</string>
+			<string>{{247.5, 418.5}, {121.50000000000003, 139.5}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FontInfo</key>
@@ -844,12 +844,11 @@ Fuel Tank \'97\'a0Switch as req.}</string>
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
 
 \f1\b0 \cf0 Transponder \'97 Set to VFR\
-ELT \'97 Verify silent\
 Throttle \'97 Set to 1000 RPM\
 Hobbs/Tach &amp; Fuel \'97\'a0Note\
-Ignition \'97 Check ground as req.\
 Lights \'97 Off\
 Avionics Master \'97\'a0Off\
+Ignition \'97 Check ground as req.\
 Mixture \'97 Lean to cutoff\
 Ignition \'97 Off\
 Pilot Pedals \'97\'a0Adjust for lock\
@@ -1014,7 +1013,7 @@ Fuel Pump \'97\'a0On\
 Pitot Heat \'97 On\
 Mixture \'97 Set as req. for alt.\
 Throttle \'97\'a0Set to full\
-RPM \'97 Check &lt;= 2700 RPM\
+RPM \'97 Check \uc0\u8804 2700 RPM\
 Oil Pressure \'97 Check\
 Brakes \'97 Release\
 Rotate at 60 KIAS\
@@ -1105,7 +1104,7 @@ Continue climb at 67+ KIAS}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{247.5, 256.5}, {121.50000000000003, 90}}</string>
+			<string>{{247.5, 265.5}, {121.50000000000003, 99}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FontInfo</key>
@@ -1143,14 +1142,14 @@ Continue climb at 67+ KIAS}</string>
 \f0\b\fs16 \cf0 Pre-takeoff\
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
 
-\f1\b0 \cf0 FMS Flight Plan \'97 Activated\
+\f1\b0 \cf0 VOR Check \'97 Current for IFR\
+FMS Flight Plan \'97 Activated\
 CDI Nav Source \'97\'a0Set as req.\
 Transponder \'97 Check code\
 Front Canopy \'97 Locked\
 Rear Door \'97\'a0Locked\
 Air Conditioning \'97\'a0Off as req.\
-Radio \'97 Ready for departure\
-}</string>
+Radio \'97 Ready for departure}</string>
 				<key>VerticalPad</key>
 				<real>3</real>
 			</dict>
@@ -1159,7 +1158,7 @@ Radio \'97 Ready for departure\
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{247.5, 45}, {121.50000000000003, 211.5}}</string>
+			<string>{{247.5, 45}, {121.50000000000003, 220.5}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FontInfo</key>
@@ -1200,7 +1199,8 @@ Radio \'97 Ready for departure\
 \f1\b0 \cf0 Brakes \'97 Set\
 Trim \'97 Set to T/O\
 Flight Controls \'97 Free &amp; Correct\
-Alternate Air \'97 Test, Close\
+Alt. Induction Air \'97 Test, Close\
+Alt. Static Air \'97 Test, Close\
 Annunciations \'97\'a0None exc. Pitot\
 Fuel Tank \'97\'a0Switch\
 Fuel Pump \'97\'a0On\
@@ -1413,7 +1413,7 @@ Mixture \'97\'a0Lean for ground ops}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{4.4999999999999858, 427.5}, {121.50000000000003, 130.5}}</string>
+			<string>{{4.4999999999999858, 436.5}, {121.50000000000003, 121.5}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FontInfo</key>
@@ -1443,7 +1443,7 @@ Mixture \'97\'a0Lean for ground ops}</string>
 				<key>Pad</key>
 				<real>3</real>
 				<key>Text</key>
-				<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf130
+				<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf340
 {\fonttbl\f0\fnil\fcharset0 HelveticaNeue;\f1\fnil\fcharset0 HelveticaNeue-Light;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
@@ -1459,7 +1459,6 @@ ELT \'97 Set to ARM\
 Circuit Breakers \'97 Check\
 Front Canopy \'97\'a0Close\
 Rear Door \'97 Close\
-Pedals \'97 Adjust\
 Fuel \'97 Set to fullest tank\
 Brakes \'97 Check}</string>
 				<key>VerticalPad</key>
@@ -1470,7 +1469,7 @@ Brakes \'97 Check}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{4.5, 216}, {121.50000000000003, 211.5}}</string>
+			<string>{{4.5, 274.5}, {121.50000000000003, 162}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FontInfo</key>
@@ -1511,11 +1510,6 @@ Brakes \'97 Check}</string>
 \f1\b0 \cf0 Check quantity and quality:\
   Fuel \'97 Sump and measure\
   Oil \'97 Check (4-8 qt, ideal 6 qt)\
-Remove and stow:\
-  Pitot cover\
-  Cowl plugs\
-  Tie-downs\
-  Chocks\
 Check for damage and debris:\
   Intakes/Caps/Drains/Vents\
   Propeller and Spinner\
@@ -1535,7 +1529,7 @@ Final walk around \'97 Complete}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{4.4999999999999858, 45}, {121.50000000000003, 171}}</string>
+			<string>{{4.4999999999999858, 45}, {121.50000000000003, 229.5}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FontInfo</key>
@@ -1579,13 +1573,19 @@ Final walk around \'97 Complete}</string>
 Flight Plan \'97 File as req.\
 Papers (AROW, VOR) \'97 Check\
 Fire Extinguisher \'97 Check\
-Control Lock \'97\'a0Remove\
-G1000 \'97 Check SD cards\
+Remove and stow:\
+  Control lock\
+  Pitot cover\
+  Cowl plugs\
+  Tie-downs\
+  Chocks\
+G1000 SD Cards \'97 Check\
 Master \'97 On\
 Flaps \'97 Set to T/O, then LDG \
-Pilot Pedals \'97 Adjust for pilot\
+Pedals \'97 Adjust\
 Hobbs &amp; Tach \'97 Check vs. log\
-Lights \'97 Check Int., Ext.\
+Lights \'97 Test int., ext.\
+Pitot Heat \'97 Test for IFR\
 Fuel Gauges \'97 Check level\
 Master \'97 Off}</string>
 				<key>VerticalPad</key>
@@ -1983,7 +1983,7 @@ Master \'97 Off}</string>
 	<key>MasterSheets</key>
 	<array/>
 	<key>ModificationDate</key>
-	<string>2016-03-07 00:14:45 +0000</string>
+	<string>2016-05-08 00:45:45 +0000</string>
 	<key>Modifier</key>
 	<string>Jeremy Cole</string>
 	<key>NotesVisible</key>
@@ -2076,15 +2076,15 @@ Master \'97 Off}</string>
 		<key>TopSlabHeight</key>
 		<real>325</real>
 		<key>VisibleRegion</key>
-		<string>{{-42.999999999999993, 27.705627705627705}, {860.17316017316023, 533.33333333333326}}</string>
+		<string>{{-39, 33.766234602649106}, {853.67967482594918, 533.33334654440648}}</string>
 		<key>Zoom</key>
-		<real>2.3100000000000001</real>
+		<real>2.309999942779541</real>
 		<key>ZoomValues</key>
 		<array>
 			<array>
 				<string>da40_xls_gfc700_ac</string>
+				<real>2.309999942779541</real>
 				<real>2.3100000000000001</real>
-				<real>2.29</real>
 			</array>
 		</array>
 	</dict>
